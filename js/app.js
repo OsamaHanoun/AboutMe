@@ -1,5 +1,4 @@
 'use strict';
-console.log('working');
 
 var userName = prompt('What is your name?');
 alert(` Welcome ${userName}, we're happy to have you here`);
